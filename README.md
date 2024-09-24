@@ -1,9 +1,12 @@
 **Installation**
-Prerequisites
+Prerequisites:
+
 Make sure you have the following installed:
 
 Python 3.6 or later
+
 PyTorch (version compatible with your CUDA version)
+
 Other requirements
 
 **Cloning the github repository**
